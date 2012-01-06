@@ -3,11 +3,11 @@ ensime in an sbt project.
 
 Getting started:
 
-0) Install ensime.
+0) Install ensime and sbt.
 1) Clone this repository.
 2) Run sbt in the minimal-ensime-sbt-project directory.
 3) In the sbt console, run `ensime generate`
-4) In the minimal-ensime-sbt-project directory, open main.scala with emacs.
+4) With emacs, open minimal-ensime-sbt-project/src/main/scala/main.scala
 5) In emacs, M-x ensime
 
 
